@@ -1,9 +1,8 @@
-Web Literacy Standard
-=====================
+Navigation
+==========
+_Using software tools to browse the Web_
 
-=Exploring=
-
-The 'Navigation' competency is made up of the following skills:
+The 'Navigation' competency within the 'Exploring' strand is made up of the following skills:
 
 * Accessing the Web using the common features of Web browsers
 * Using hyperlinks to access a range of resources on the Web
