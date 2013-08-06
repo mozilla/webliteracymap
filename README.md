@@ -1,8 +1,8 @@
-Web Literacy Standard
-=====================
+Estándar de Alfabetización Web
+==============================
 
-The Web Literacy Standard is comprised of three strands:
+El Estándar de Alfabetización Web se compone de tres hilos:
 
-* Exploring - navigating the web
-* Building - creating for the web
-* Connecting - participating on the web
+* Explorando - Navegando por la web 
+* Construyendo - Creando para la Web 
+* Connectando - Participando de la Web 
