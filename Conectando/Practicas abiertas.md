@@ -1,10 +1,10 @@
-Open practices
-==============
-_Helping to keep the Web democratic and universally accessible_
+Prácticas Abiertas
+==================
+_Ayudando a mantener la Web democrática y universalmente abierta_
 
-The 'Open practices' competency within the 'Building' strand is made up of the following skills:
+La competencia 'Prácticas abiertas' está compuesta de las siguientes habilidades:
 
-* Distinguishing between open and closed licensing
-* Making Web resources available under an open license
-* Using and sharing files in open, Web-friendly formats
-* Contributing to an Open Source project 
+*    Distinguir entre licencias abiertas y cerradas
+*    Hacer que los recursos web estén disponibles bajo una licencia abierta
+*    Utilizar y compartir archivos en formatos abiertos y amigables para la Web
+*    Contribuir a un proyecto Open Source

@@ -1,10 +1,10 @@
 HTML
 ====
-_Reading and writing the building blocks of the Web_
+_Lectura y escritura de los bloques de construcción de la Web_
 
-The 'HTML' competency within the 'Building' strand is made up of the following skills:
+La competencia 'HTML' está compuesta de las siguientes habilidades:
 
-* Identifying and using HTML tags
-* Structuring a Web page
-* Manipulating HTML tags to alter the structure of an existing Web page
-* Debugging your own and other people's markup 
+*    Identificar y usar etiquetas HTML
+*    Estructurar una página Web
+*    Manipular etiquetas HTML para alterar las estructura de páginas Web existentes
+*    Depurar tu marcado HTML y el de otras personas

@@ -1,9 +1,10 @@
-Web Mechanics
-=============
-_Understanding the Web ecosystem_
+Mecánica de la Web
+==================
 
-The 'Web Mechanics' competency within the 'Exploring' strand is made up of the following skills:
+_Comprendiendo el ecosistema Web_
 
-* Using, and understanding the difference between, URLs, IP addresses and search terms
-* Keeping up-to-date with sources of information on the Web
-* Demonstrating the difference(s) between searching in different ways/contexts/sites 
+La competencia 'Mecánica de la Web' está compuesta de las siguentes habilidades:
+
+* Usar y comprender las diferencias entre URL, direcciones IP y términos de búsqueda
+* Mantenerse al día con las fuentes de información en la Web
+* Demostrar las diferencias entre buscar en diferentes formas/contextos/sitios 

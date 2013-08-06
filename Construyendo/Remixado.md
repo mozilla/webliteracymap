@@ -1,9 +1,9 @@
-Remixing
+Remixado
 ========
-_Modifying existing Web resources to create something new_
+_Modificación de los servicios Web existentes para crear algo nuevo_
 
-The 'Remixing' competency within the 'Building' strand is made up of the following skills:
+La competencia 'Remixado' está compuesta de las siguientes habilidades:
 
-* Identifying and using openly-licensed work
-* Combining multimedia resources
-* Creating something new on the Web using existing resources 
+*    Identificar y utilizar trabajos con licencia abierta
+*    Combinar recursos multimedia
+*    Crear algo nuevo en la Web con recursos existentes

@@ -1,9 +1,9 @@
-Composing for the Web
+Componer para la Web
 =====================
-_Creating content and making use of technologies for the Web_
+_crear contenido y hacer uso de tecnologías para la Web_
 
-The 'Composing for the Web' competency within the 'Building' strand is made up of the following skills:
+La competencia 'Componer para la Web' está compuesta de las siguiente habilidades:
 
-* Inserting hyperlinks into a Web page
-* Embedding multimedia content into a Web page
-* Creating Web resources in ways appropriate to the medium/genre   
+*    Inserción de hipervínculos en páginas web
+*    Embeber contenido multimedia en una página Web
+*    Crear recursos de la Web de manera adecuada al medio/género

@@ -1,9 +1,10 @@
-Web Literacy Standard
-=====================
+Estándar de Alfabetización Web
+==============================
+_Participando de la Web_
 
-The Connecting strand is made up of the following competencies:
+El hilo Conectando está compuesto de las siguientes competencias:
 
-* Sharing & Collaborating - jointly creating and providing access to Web resources
-* Community participation - getting involved in Web communities and understanding their practices
-* Privacy - examining the consequences of sharing data online
-* Open practices - helping to keep the Web democratic and universally accessible 
+*    Compartiendo y Colaborando - Creación y prestación colectiva a los recursos de la Web - jointly creating and providing access to Web resources -
+*    Particicpación comunitaria - involucrarse en comunidades Web y comprender sus prácticas
+*    Privacidad - examinar las consecuencias de compartir datos en línea
+*    Prácticas abiertas - ayudando a mantener la Web deocrática y universalmente abierta

@@ -1,12 +1,12 @@
-Sharing & Collaborating
-=======================
-_Jointly creating and providing access to Web resources_
+Compartiendo y Colaborando
+==========================
+_Creación y prestación colectiva a los recursos de la Web_
 
-The 'Sharing & Collaborating' competency within the 'Building' strand is made up of the following skills:
+La ompetencia 'Compartiendo y Colaborando' está compuesta por las siguientes habilidades:
 
-* Sharing a resource using an appropriate tool and format for the audience
-* Tracking changes made to co-created Web resources
-* Choosing a Web tool to use for a particular contribution/collaboration
-* Co-creating Web resources
-* Configuring notifications to keep up-to-date with community spaces and interactions
-* Using synchronous and asynchronous tools to communicate with Web communities, networks and groups 
+*    Compartir un recurso mediante una herramienta y un formato apropiado para el público
+*    Rastrear los cambios hechos a los recursos web co-creados
+*    Elegir una herramienta Web que se utilizará para una contribución / colaboración especial
+*    Co-crear recursos de la Web
+*    Configurar notificaciones para mantenerse al día con los espacios comunitarios y las interacciones
+*    Utilizar herramientas sincrónicas y asincrónicas para comunicarse con las comunidades Web, redes y grupos

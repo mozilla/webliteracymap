@@ -1,10 +1,10 @@
-Web Literacy Standard
-=====================
+Estándar de Alfabtización Web
+=============================
 
-The Exploring strand is made up of the following competencies:
+El hilo Explorar está compuesto de las siguientes competencias:
 
-* Navigation - using software tools to browse the Web
-* Web Mechanics - understanding the Web ecosystem
-* Search - locating information, people and resources via the Web
-* Credibility - critically evaluating information found on the Web
-* Security - keeping systems, identities, and content safe 
+* Navegación - usar herramientas de software para navegar la web
+* Mecánica de la Web - Comprendiendo el ecosistema Web
+* Búsqueda - Localizar información, gente y recursos a travéz de la web
+* Credibilidad - Evaluación crítica de la información encontrada en la web
+* Seguridad - mantenimiento de sistemas, identidades, y seguridad de contenidos 

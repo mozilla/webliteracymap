@@ -1,11 +1,11 @@
-Infrastructure
+Infrastructura
 ==============
-_Understanding the Internet stack_
+_comprensión de la infraestructura de Internet_
 
-The 'Infrastructure' competency within the 'Building' strand is made up of the following skills:
+La competencia 'Infrastructura' está compuesta de las siguientes habilidades:
 
-* Understanding and labeling the Web stack
-* Explaining the differences between the Web and the Internet
-* Exporting and backing up your data from Web services
-* Moving the place(s) where your data is hosted on the Web
-* Securing your data against malware and hacking 
+*    Comprender y etiquetar el stack Web
+*    Explicar las diferencias entre la web e Internet
+*    Exportar y realizar copias de seguridad de los datos de los servicios Web
+*    Mover el(los) sitio(s) donde sus datos están alojados en la Web
+*    Proteger sus datos contra el malware y el acceso no autorizado

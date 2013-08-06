@@ -1,11 +1,11 @@
 CSS
 ===
-_Reading, writing, testing and applying style sheets to alter the visual appearance of HTML_
+_Lectura, escritura, testeo y aplicación de hojas de estilo para alterar la apariencia visual de los HTML_
 
-The 'CSS' competency within the 'Building' strand is made up of the following skills:
+La competencia 'CSS' está compuesta de las siguientes habilidades:
 
-* Identifying and using CSS tags
-* Demonstrating the difference between inline, embedded and external CSS
-* Overriding a stylesheet using inline styles
-* Implementing responsive design through CSS
-* Designing for graceful degradation across a range of Web browsers 
+*    Identificar y usar etiquetas CSS
+*    Demostrar la diferencia entre CSS entrelineas, embebido y externo -FIX-
+*    Reemplazar una hoja de estilos utilizando estilos en línea
+*    Implementación de responsive design a través de CSS
+*    Diseño para la degradación progresiva a través de una variedad de navegadores web

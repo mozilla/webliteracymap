@@ -1,12 +1,11 @@
 Coding/scripting
 ================
-_Creating interactive experiences on the Web_
+_Creación de experiencias interactivas en la Web_
 
-The 'Coding/scripting' competency within the 'Building' strand is made up of the following skills:
+la competencia 'Coding/scripting' está compuesta de las siguientes habiidades:
 
-* Explaining the differences between client-side and server-side scripting
-* Composing working loops and arrays
-* Reading and explaining the structure of code
-* Using a script framework
-* Adding code comments for clarification and attribution 
-
+*    Explicar las diferencias entre client-side y server-side scripting
+*    Componer bucles de trabajo y matrices
+*    Leer y explicar la estructura del código
+*    Usar un script framework
+*    Agregar comentarios de código para la clarificación y atribución

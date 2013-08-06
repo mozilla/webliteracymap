@@ -1,11 +1,11 @@
-Privacy
-=======
-_Examining the consequences of sharing data online_
+Privacidad
+==========
+_Examinar las consecuencias de compartir datos en línea_
 
-The 'Privacy' competency within the 'Building' strand is made up of the following skills:
+La competencia 'Privacidad' está compuesta de las siguientes habilidades:
 
-* Identifying rights retained and removed through user agreements
-* Taking steps to secure non-encrypted connections
-* Explaining ways in which hackers are able to gain access to user information
-* Managing the digital footprint of an online persona
-* Identifying the elements of identity that are important to keep private 
+*    Identificar los derechos conservados y eliminados a través de los acuerdos de usuario
+*    Tomar medidas para proteger las conexiones no encriptadas
+*    Explicar maneras en las que los criminales informáticos son capaces de acceder a la información del usuario
+*    Gestión de de la huella digital de un personaje en línea
+*    Identificar los elementos de identidad que son importantes para mantenerlos en privado
