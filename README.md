@@ -1,8 +1,8 @@
 Web Literacy Standard
 =====================
 
-The Web Literacy Standard is comprised of three strands:
+Die Web Literacy Standard hat drei Abzeichnen:
 
-* Exploring - navigating the web
-* Building - creating for the web
-* Connecting - participating on the web
+* Erkunden - umgehen im Web
+* Aufbauen - erstellen für des Web
+* Verbinden - kommunizieren und am Web mitarbeiten
