@@ -6,5 +6,5 @@ The 'Open practices' competency within the 'Building' strand is made up of the f
 
 * Distinguishing between open and closed licensing
 * Making Web resources available under an open license
-* Using and sharing files in open, Web-friendly formats
+* Using and sharing files in open, Web-friendly formats when appropriate
 * Contributing to an Open Source project 

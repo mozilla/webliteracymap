@@ -2,7 +2,7 @@ Community participation
 =======================
 _Getting involved in Web communities and understanding their practices_
 
-The 'Community participation' competency within the 'Building' strand is made up of the following skills:
+The 'Community participation' competency within the 'Connecting' strand is made up of the following skills:
 
 * Encouraging participation in Web communities
 * Using constructive criticism in a group or community setting
