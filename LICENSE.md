@@ -1,6 +1,6 @@
 <img src="https://creativecommons.org/images/deed/cc-logo.jpg" alt="Creative Commons">
 #Creative Commons Legal Code #
-## Attribution 3.0 Unported ##
+## [Attribution 3.0 Unported](https://creativecommons.org/licenses/by/3.0/deed.en_US) ##
 
 <img src="https://creativecommons.org/images/international/unported.png" alt="World">
 
