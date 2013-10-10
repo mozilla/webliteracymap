@@ -6,5 +6,6 @@ The 'Navigation' competency within the 'Exploring' strand is made up of the foll
 
 * Accessing the Web using the common features of Web browsers
 * Using hyperlinks to access a range of resources on the Web
-* Recognising the visual cues in everyday Web services
-* Installing browser add-ons and extensions to provide additional functionality 
+* Reading, evaluating, and manipulating URLs
+* Recognizing the visual cues in everyday Web services
+* Using browser add-ons and extensions to provide additional functionality 
