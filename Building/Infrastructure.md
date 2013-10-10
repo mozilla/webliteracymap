@@ -8,4 +8,4 @@ The 'Infrastructure' competency within the 'Building' strand is made up of the f
 * Explaining the differences between the Web and the Internet
 * Exporting and backing up your data from Web services
 * Moving the place(s) where your data is hosted on the Web
-* Securing your data against malware and hacking 
+* Securing your data against malware and computer criminals 
