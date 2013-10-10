@@ -13,4 +13,4 @@ The Web Literacy Standard (specification) is comprised of three strands:
 * **Connecting** - participating on the web 
 
 <br>
-<p align="center"><img src="https://i.creativecommons.org/l/by/3.0/88x31.png" alt="This work is licensed under a Creative Commons Attribution 3.0 Unported License"></p>
+<p align="center"><a href="https://creativecommons.org/licenses/by/3.0/deed.en_US"><img src="https://i.creativecommons.org/l/by/3.0/88x31.png" alt="This work is licensed under a Creative Commons Attribution 3.0 Unported License"></a></p>
