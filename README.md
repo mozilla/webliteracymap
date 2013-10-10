@@ -6,8 +6,8 @@ Where do you go if you want to get better at your web skills? How do you even kn
 
 =====================
 
-The Web Literacy Standard is comprised of three strands:
+The Web Literacy Standard (specification) is comprised of three strands:
 
-* Exploring - navigating the web
-* Building - creating for the web
-* Connecting - participating on the web 
+* **Exploring** - navigating the web
+* **Building** - creating for the web
+* **Connecting** - participating on the web 
