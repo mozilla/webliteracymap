@@ -19,7 +19,7 @@ You can find resources relating to the Web Literacy Map at [webmaker.org/resourc
 
 =====================
 
-**Contact:** Doug Belshaw, Web Literacy Lead, Mozilla Foundation *([@dajbelshaw](https://twitter.com/dajbelshaw) / [doug@mozillafoundation.org](mailto:doug@mozillafoundation.org))*
+**Contact:** Doug Belshaw, Web Literacy Lead, Mozilla Foundation ([@dajbelshaw](https://twitter.com/dajbelshaw) / [doug@mozillafoundation.org](mailto:doug@mozillafoundation.org))
 
 <br>
 <p align="center"><a href="https://creativecommons.org/licenses/by/3.0/deed.en_US"><img src="https://i.creativecommons.org/l/by/3.0/88x31.png" alt="This work is licensed under a Creative Commons Attribution 3.0 Unported License"></a></p>
