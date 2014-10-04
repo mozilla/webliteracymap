@@ -1,12 +1,19 @@
-Web Literacy Standard
+Web Literacy Standard v1.1
+==========================
+
+*Note: we're currently working on a v2.0.*
+
+Mozilla defines web literacy as the skills and competencies needed for reading, writing and participating on the web.
+
+To chart these skills and competencies, Mozilla worked alongside a [community of stakeholders](https://wiki.mozilla.org/Learning/WebLiteracyMap/Contributors) to create the Web Literacy Map.
+
+Read more about why Mozilla cares about web literacy in this [Webmaker Whitepaper](https://mozilla.github.io/webmaker-whitepaper/).
+
 =====================
-*(specification)*
 
-Where do you go if you want to get better at your web skills? How do you even know what's important to learn? **The Web Literacy Standard comprises a map of competencies and skills that Mozilla and our community of stakeholders believe are important to pay attention to when getting better at reading, writing and participating on the web.** The Web Literacy Standard is part of Mozilla’s ongoing goal to create a generation of webmakers – those who can not only elegantly consume but also write and *participate* on the web. 
+![Web Literacy Map v1.1](https://i.imgur.com/4U0zZLH.png)
 
-=====================
-
-The Web Literacy Standard (specification) is comprised of three strands:
+The Web Literacy Map is comprised of three strands:
 
 * **Exploring** - navigating the web
 * **Building** - creating for the web
