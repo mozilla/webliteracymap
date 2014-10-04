@@ -1,5 +1,5 @@
-Sharing & Collaborating
-=======================
+Sharing
+=======
 _Creating web resources with others_
 
 The 'Sharing' competency within the 'Connecting' strand is made up of the following skills:
