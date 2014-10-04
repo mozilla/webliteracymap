@@ -1,7 +1,7 @@
-Web Literacy Standard v1.1
+Web Literacy Map v1.1
 ==========================
 
-*Note: we're currently working on a v2.0.*
+*Note: we're currently working on a v2.0. This is up-to-date as of October 2014.*
 
 Mozilla defines web literacy as the skills and competencies needed for reading, writing and participating on the web.
 
