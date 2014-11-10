@@ -19,6 +19,8 @@ The Web Literacy Map is comprised of three strands:
 
 You can find resources relating to the Web Literacy Map at [webmaker.org/resources](https://webmaker.org/resources).
 
+If you're interested in including using the Web Literacy Map with your app, check out [this GitHub repo](https://github.com/mozilla/web-literacy-client).
+
 =====================
 
 **Contact:** Doug Belshaw, Web Literacy Lead, Mozilla Foundation ([@dajbelshaw](https://twitter.com/dajbelshaw) / [doug@mozillafoundation.org](mailto:doug@mozillafoundation.org))
