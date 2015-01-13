@@ -1,7 +1,7 @@
 Web Literacy Map v1.1
 ==========================
 
-*Note: we're currently [working on a v2.0](http://literaci.es/weblitmap2-themes). This is up-to-date as of October 2014.*
+*Note: from January-March 2015 we're [working on an update to v1.5](https://wiki.mozilla.org/Webmaker/WebLiteracyMap/v1.5). Join us and have your say!*
 
 =====================
 
