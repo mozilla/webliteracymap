@@ -5,7 +5,7 @@ Web Literacy Map
 
 =====================
 
-Mozilla defines web literacy as the skills and competencies needed for reading, writing and participating on the open web. To chart these skills and competencies, Mozilla work alongside a [community of stakeholders](https://wiki.mozilla.org/Learning/WebLiteracyMap/Contributors) to create and sustain the Web Literacy Map. Read more about why Mozilla cares about web literacy in this [Webmaker Whitepaper](https://mozilla.github.io/webmaker-whitepaper/).
+Mozilla defines web literacy as the skills and competencies needed for reading, writing and participating on the open web. To chart these skills and competencies, Mozilla work alongside a [community of stakeholders](https://github.com/mozilla/webliteracymap/blob/master/Contributors.md) to create and sustain the Web Literacy Map. Read more about why Mozilla cares about web literacy in this [Webmaker Whitepaper](https://mozilla.github.io/webmaker-whitepaper/).
 
 =====================
 
