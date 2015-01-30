@@ -1,20 +1,21 @@
-Web Literacy Map v1.1
+Web Literacy Map
 ==========================
 
 *Note: from January-March 2015 we're [working on an update to v1.5](https://wiki.mozilla.org/Webmaker/WebLiteracyMap/v1.5). Join us and have your say!*
 
 =====================
 
-Mozilla defines web literacy as the skills and competencies needed for reading, writing and participating on the web. To chart these skills and competencies, Mozilla worked alongside a [community of stakeholders](https://wiki.mozilla.org/Learning/WebLiteracyMap/Contributors) to create the Web Literacy Map. Read more about why Mozilla cares about web literacy in this [Webmaker Whitepaper](https://mozilla.github.io/webmaker-whitepaper/).
+Mozilla defines web literacy as the skills and competencies needed for reading, writing and participating on the open web. To chart these skills and competencies, Mozilla work alongside a [community of stakeholders](https://wiki.mozilla.org/Learning/WebLiteracyMap/Contributors) to create and sustain the Web Literacy Map. Read more about why Mozilla cares about web literacy in this [Webmaker Whitepaper](https://mozilla.github.io/webmaker-whitepaper/).
 
 =====================
 
 ![Web Literacy Map v1.1](https://i.imgur.com/4U0zZLH.png)
+*(v1.5 visual update coming soon!)*
 
 The Web Literacy Map is comprised of three strands:
 
-* **Exploring** - navigating the web
-* **Building** - creating for the web
+* **Exploring** - reading the web
+* **Building** - writing for the web
 * **Connecting** - participating on the web 
 
 You can find resources relating to the Web Literacy Map at [webmaker.org/resources](https://webmaker.org/resources).
