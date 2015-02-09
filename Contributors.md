@@ -1,6 +1,8 @@
 We'd like to thank the following Mozillians and community members who have contributed in some way to the Web Literacy Map's development:
 
 * Alina Mierlus
+* Andrew Sliwinski
+* An-Me Chung
 * Ani Martinez
 * Alvar Maciel
 * Ankit Gadgil
@@ -8,10 +10,15 @@ We'd like to thank the following Mozillians and community members who have contr
 * Atul Varma
 * Audrey Watters
 * Beth Ayer
+* Bex Lewis
+* Bobby Richter
+* Bon Stewart
 * Brendan Murphy
 * Carla Casilli
 * Cassie McDaniel
+* Catherine Cronin
 * Chad Sansing
+* Chloe Varelidi
 * Chris Mills
 * Chris Wilde
 * Christian Briggs
@@ -19,7 +26,10 @@ We'd like to thank the following Mozillians and community members who have contr
 * Clint Talbert
 * Cynthia Lieberman
 * Darren Alexander
+* Dave Cormier
 * Dave Crusoe
+* Dave Steer
+* David Ascher
 * Diana Graber
 * Doug Belshaw
 * Dumitru Gherman
@@ -40,18 +50,26 @@ We'd like to thank the following Mozillians and community members who have contr
 * Ibrahima Sarr
 * James Buckingham
 * Jamie Allen
+* Jane Bozarth
 * Janet Laane Effron
 * Jen Moore
 * Jess Klein
 * Joerg Lohrer
 * John Bevan
 * John Martin
+* Josie Fraser
 * Joyce Seitzinger
+* Justin Crawford
 * Karen Smith
 * Kat Braybrooke
+* Kathryn Meisner
 * Kevin Turner
 * Kim Wilkens
+* Larissa Shapiro
 * Laura Hilliger
+* Leah Gilliam
+* Liesl Scheepers
+* Lucy Harris
 * Majda Nafissa Rahal
 * Marc Lesser
 * Marcius Herbert
@@ -59,10 +77,12 @@ We'd like to thank the following Mozillians and community members who have contr
 * Mari Huertas
 * Mark Power
 * Matt Hannigan
+* Matthew Willse
 * Michael Greene
 * Michelle Levesque
 * Michelle Thorne
 * Mikko Kontto
+* Oliver Quinlan
 * Paul Allison
 * Paul Oh
 * Pekka Ollikainen
@@ -72,6 +92,7 @@ We'd like to thank the following Mozillians and community members who have contr
 * Shreyas Narayanan
 * Simon Grant
 * Srikar Ananthula
+* Stephen Downes
 * Stephen Judd
 * Sunny Lee
 * Terry Hodgson
