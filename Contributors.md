@@ -19,6 +19,7 @@ We'd like to thank the following Mozillians and community members who have contr
 * Catherine Cronin
 * Chad Sansing
 * Chloe Varelidi
+* Chris Appleton
 * Chris Mills
 * Chris Wilde
 * Christian Briggs
