@@ -95,6 +95,7 @@ We'd like to thank the following Mozillians and community members who have contr
 * Srikar Ananthula
 * Stephen Downes
 * Stephen Judd
+* Su Adams
 * Sunny Lee
 * Terry Hodgson
 * Thomas Farrow
