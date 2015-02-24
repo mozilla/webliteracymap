@@ -99,6 +99,7 @@ We'd like to thank the following Mozillians and community members who have contr
 * Stephen Judd
 * Su Adams
 * Sunny Lee
+* Ted Parker
 * Terry Hodgson
 * Thomas Farrow
 * Tom Salmon
