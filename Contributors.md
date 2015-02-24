@@ -38,6 +38,7 @@ We'd like to thank the following Mozillians and community members who have contr
 * Emil Ahangarzadeh
 * Emily Goligoski
 * Erica Sackin
+* Erika Biga Lee
 * Erin Knight 
 * George Station
 * Grant Russell
@@ -77,6 +78,7 @@ We'd like to thank the following Mozillians and community members who have contr
 * Marco Perez
 * Mari Huertas
 * Mark Power
+* Martyn Eggleton
 * Matt Hannigan
 * Matthew Willse
 * Michael Greene
