@@ -89,6 +89,7 @@ We'd like to thank the following Mozillians and community members who have contr
 * Paul Allison
 * Paul Oh
 * Pekka Ollikainen
+* Priscilla Alcald 
 * Roz Hussin
 * Sara Carter
 * Sarah Horrocks
@@ -102,6 +103,7 @@ We'd like to thank the following Mozillians and community members who have contr
 * Ted Parker
 * Terry Hodgson
 * Thomas Farrow
+* Tim Miller
 * Tom Salmon
 * Vicky Teinaki
 * Will Barkis
