@@ -59,6 +59,7 @@ We'd like to thank the following Mozillians and community members who have contr
 * Joerg Lohrer
 * John Bevan
 * John Martin
+* Jon Kruithof
 * Josie Fraser
 * Joyce Seitzinger
 * Justin Crawford
