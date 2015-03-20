@@ -41,7 +41,7 @@ We'd like to thank the following Mozillians and community members who have contr
 * Erica Sackin
 * Erika Biga Lee
 * Erin Knight 
-* gaditb
+* Gadit Bielman
 * George Station
 * Grant Russell
 * Greg McVerry
