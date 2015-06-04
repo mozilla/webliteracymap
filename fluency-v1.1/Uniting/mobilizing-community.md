@@ -1,2 +1,0 @@
-Mobilizing Community
-=======================
